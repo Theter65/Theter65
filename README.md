@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hola, soy Gerardo
 
-<!--
-**Theter65/Theter65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta construir cosas con tecnología, experimentar y aprender en el proceso.
 
-Here are some ideas to get you started:
+Un espacio donde guardo proyectos, pruebas e ideas que voy desarrollando con el tiempo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 ¿Qué puedes encontrar aquí?
+
+* Algunos proyectos o aportes relacionados con trabajos que he realizado con empresas
+* Proyectos personales (algunos más completos que otros)
+* Experimentos con servidores, contenedores y redes
+* Aplicaciones y páginas web (principalmente con Flask)
+* Integraciones con hardware (sensores, ESP32, etc.)
+
+---
+
+## 🧠 Intereses
+
+* Seguridad de la información
+* Infraestructura y sistemas
+* Desarrollo backend
+* Integración hardware + software
+
+---
+
+## 🤝 Sobre el código
+
+Si quieres colaborar o tienes alguna idea, puedes abrir un issue o escribirme.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Theter65&theme=transparent&hide_border=true&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
