@@ -29,5 +29,3 @@ Un espacio donde guardo proyectos, pruebas e ideas que voy desarrollando con el 
 
 Si quieres colaborar o tienes alguna idea, puedes abrir un issue o escribirme.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
