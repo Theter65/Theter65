@@ -29,6 +29,5 @@ Un espacio donde guardo proyectos, pruebas e ideas que voy desarrollando con el 
 
 Si quieres colaborar o tienes alguna idea, puedes abrir un issue o escribirme.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Theter65&theme=transparent&hide_border=true&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
