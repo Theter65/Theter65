@@ -1,31 +1,54 @@
-## 👋 Hola, soy Gerardo
+## 👋 Hi, I'm Gerardo
 
-Me gusta construir cosas con tecnología, experimentar y aprender en el proceso.
+I enjoy building things with technology, experimenting, and learning throughout the process.
 
-Un espacio donde guardo proyectos, pruebas e ideas que voy desarrollando con el tiempo.
-
----
-
-## 🚀 ¿Qué puedes encontrar aquí?
-
-* Algunos proyectos o aportes relacionados con trabajos que he realizado con empresas
-* Proyectos personales (algunos más completos que otros)
-* Experimentos con servidores, contenedores y redes
-* Aplicaciones y páginas web (principalmente con Flask)
-* Integraciones con hardware (sensores, ESP32, etc.)
+This is a space where I keep projects, tests, and ideas that I develop over time.
 
 ---
 
-## 🧠 Intereses
+## 🚀 What can you find here?
 
-* Seguridad de la información
-* Infraestructura y sistemas
-* Desarrollo backend
-* Integración hardware + software
+- Projects and contributions related to work I have done with companies
+- Personal projects, some more complete than others
+- Experiments with servers, containers, and networks
+- Applications and web pages, mainly built with Flask
+- Hardware and software integrations, including sensors, ESP32, and IoT projects
 
 ---
 
-## 🤝 Sobre el código
+## 🧠 Interests
 
-Si quieres colaborar o tienes alguna idea, puedes abrir un issue o escribirme.
+- Information Security
+- Infrastructure and Systems
+- Backend Development
+- Hardware + Software Integration
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🛠️ Technologies I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,kotlin,androidstudio,linux,docker,git,github,mysql,sqlite,html,css,js,arduino,raspberrypi" />
+</p>
+
+---
+
+## 🤝 About the code
+
+If you want to collaborate or have an idea, feel free to open an issue or reach out.
