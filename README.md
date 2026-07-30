@@ -28,7 +28,7 @@ This is a space where I keep projects, tests, and ideas that I develop over time
 ## 🛠️ Technologies I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,kotlin,androidstudio,linux,docker,git,github,mysql,sqlite,html,css,js,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python,flask,kotlin,androidstudio,docker,git,css,raspberrypi" />
 </p>
 
 ---
