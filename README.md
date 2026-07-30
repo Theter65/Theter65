@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Gerardo
+##  Hi, I'm Gerardo
 
 I enjoy building things with technology, experimenting, and learning throughout the process.
 
@@ -6,7 +6,7 @@ This is a space where I keep projects, tests, and ideas that I develop over time
 
 ---
 
-## 🚀 What can you find here?
+##  What can you find here?
 
 - Projects and contributions related to work I have done with companies
 - Personal projects, some more complete than others
@@ -16,7 +16,7 @@ This is a space where I keep projects, tests, and ideas that I develop over time
 
 ---
 
-## 🧠 Interests
+##  Interests
 
 - Information Security
 - Infrastructure and Systems
@@ -25,7 +25,7 @@ This is a space where I keep projects, tests, and ideas that I develop over time
 
 ---
 
-## 🛠️ Technologies I work with
+##  Technologies I work with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,kotlin,androidstudio,docker,git,css,raspberrypi" />
@@ -33,6 +33,6 @@ This is a space where I keep projects, tests, and ideas that I develop over time
 
 ---
 
-## 🤝 About the code
+##  About the code
 
 If you want to collaborate or have an idea, feel free to open an issue or reach out.
